@@ -1,4 +1,4 @@
-A Platformer Shooter Prototype
+A Platformer Shooter Prototype using Unity with C#
 
 Inputs:
 A: Left
